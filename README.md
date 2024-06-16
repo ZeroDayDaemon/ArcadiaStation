@@ -1,4 +1,4 @@
-<p align="center">![arcadia-full-small](https://github.com/ArcadiaStation/ArcadiaStation/assets/60460608/315e1232-0891-4d04-ab91-2a3bc23f82b1)</p>
+<p align="center"> <img alt="Space Station 14" width="500" height="243" src="https://raw.githubusercontent.com/ArcadiaStation/ArcadiaStation/master/Resources/Textures/Logo/logo.png" /></p>
 
 Arcadia Station is a fork of Space Station 14 with a focus on player expression and customization, to create an extensive roleplay enviorment.
 
