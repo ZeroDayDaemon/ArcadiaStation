@@ -41,5 +41,5 @@ Most assets are licensed under [CC-BY-SA 3.0](https://creativecommons.org/licens
 
 Note that some assets are licensed under the non-commercial [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) or similar non-commercial licenses and will need to be removed if you wish to use this project commercially.
 
-Arcadia Station logo assets and the name "Arcadia Station" are copyrighted by ZeroDayDaemon and are not under a permissive license.
+Arcadia Station [logo assets](https://github.com/ArcadiaStation/ArcadiaStation/tree/f0203b6b84663317c444329be2f97c406987f9d9/Resources/Textures/Logo) and the name "Arcadia Station" are copyrighted by ZeroDayDaemon and are not under a permissive license.
 Forks may mention they are forks of Arcadia Station but may not use its name or logo assets for a server as if they were Arcadia Station.
