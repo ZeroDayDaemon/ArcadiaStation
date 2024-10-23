@@ -1,6 +1,6 @@
 <p align="center"> <img alt="Space Station 14" width="500" height="243" src="https://raw.githubusercontent.com/ArcadiaStation/ArcadiaStation/master/Resources/Textures/Logo/logo.png" /></p>
 
-Arcadia Station is a fork of Space Station 14 with a focus on player expression and customization, to create an extensive roleplay enviorment.
+Arcadia Station is a fork of Space Station 14.
 
 [Space Station 14](https://github.com/space-wizards/space-station-14) is a remake of SS13 that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), a homegrown engine written in C#.
 In order to prevent people forking RobustToolbox, a "content" pack is loaded by the client and server. This content pack contains everything needed to play the game on one specific server.
