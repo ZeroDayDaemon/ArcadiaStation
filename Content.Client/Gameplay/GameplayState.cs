@@ -104,6 +104,9 @@ namespace Content.Client.Gameplay
                 case ScreenType.Separated:
                     _uiManager.LoadScreen<SeparatedChatGameScreen>();
                     break;
+                case ScreenType.Arcadian:
+                    _uiManager.LoadScreen<ArcadianChatGameScreen>();
+                    break;
             }
 
             _loadController.LoadScreen();
