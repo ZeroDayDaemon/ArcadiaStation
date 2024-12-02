@@ -14,7 +14,7 @@ VERSION = os.environ['GITHUB_SHA']
 # CONFIGURATION PARAMETERS
 # Forks should change these to publish to their own infrastructure.
 #
-ROBUST_CDN_URL = "https://cdn.station14.space/"
+ROBUST_CDN_URL = "https://cdn.arcadiastation.org/"
 FORK_ID = "arcadia"
 
 def main():
