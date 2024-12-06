@@ -20,7 +20,7 @@
     Special: MobHumanoidAnyMarking
     Head: MobIPCHead
     Chest: MobIPCTorso
-#    Eyes: MobIPCEyes
+#    Eyes: MobIPCEyes # Screens + eyes here?
     LArm: MobIPCLArm
     RArm: MobIPCRArm
     LHand: MobIPCLHand
@@ -30,27 +30,33 @@
     LFoot: MobIPCLFoot
     RFoot: MobIPCRFoot
 
-- type: markingPoints
-  id: MobIPCMarkingLimits
-  points:
-    Special:
-      points: 0
-      required: false
-    HeadTop:
-      points: 1
-      required: false
-    Head:
-      points: 1
-      required: true
-    Chest:
-      points: 1
-      required: true
-    Legs:
-      points: 2
-      required: true
-    Arms:
-      points: 2
-      required: true
+#- type: markingPoints
+#  id: MobIPCMarkingLimits
+#  points:
+#    Special:
+#      points: 0
+#      required: false
+#    HeadTop:
+#      points: 1
+#      required: false
+#    Head:
+#      points: 1
+#      required: true
+#    Chest:
+#      points: 1
+#      required: true
+#    Legs:
+#      points: 2
+#      required: true
+#    Arms:
+#      points: 2
+#      required: true
+#    Feet:
+#      points: 2
+#      required: true
+#    Hands:
+#      points: 2
+#      required: true
 
 #- type: humanoidBaseSprite
 #  id: MobHumanoidEyes
@@ -82,7 +88,7 @@
   baseSprite:
     sprite: _Arcadia/Mobs/Species/IPC/parts.rsi
     state: head
-    
+
 - type: humanoidBaseSprite
   id: MobIPCTorso
   baseSprite:
@@ -100,7 +106,7 @@
   baseSprite:
     sprite: _Arcadia/Mobs/Species/IPC/parts.rsi
     state: torso
-    
+
 - type: humanoidBaseSprite
   id: MobIPCLLeg
   baseSprite:
