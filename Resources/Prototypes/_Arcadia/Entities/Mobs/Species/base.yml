@@ -43,6 +43,6 @@
         amount: 5
       - id: SheetPlastic1
         amount: 5
-      - id: Sheet
+# add wires or something later
   - type: FireVisuals
     alternateState: Standing
